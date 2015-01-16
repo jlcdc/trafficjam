@@ -70,8 +70,6 @@ public class TrafficStore {
         }
     }
 
-    public static void ParseFlowFrom
-
     // ------------------- End Init Method
 
     // ------------------- Change Method
